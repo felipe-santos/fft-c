@@ -1,5 +1,4 @@
-
-Fast Fourier transform - Transformada rápida de Fourier, Algoritmo simples em C
+# Fast Fourier transform - Transformada rápida de Fourier, Algoritmo simples em C
 
 felipe-santos/fft-c
 ==============
@@ -12,7 +11,7 @@ Contem alguns exemplos no codigo.
 - opção para enviar um arquivo com entradas (entradas ilimitadas)
 
 
-## Exemplo
+# Exemplo
 
 https://repl.it/@FelipeSantos8/FFT
 
